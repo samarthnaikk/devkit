@@ -1,0 +1,6 @@
+google-generativeai
+requests
+rich
+docker
+gitpython
+python-dotenv
