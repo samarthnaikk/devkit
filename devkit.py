@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/Users/samarthnaik/Desktop/SIA/bin/python
 import sys
 import subprocess
 from commands import (
