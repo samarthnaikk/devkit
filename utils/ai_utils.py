@@ -1,6 +1,7 @@
 import google.generativeai as genai
 from utils.config import GEMINI_API_KEY
 
+# Configure Gemini API
 genai.configure(api_key=GEMINI_API_KEY)
 
 def generate_text(prompt):

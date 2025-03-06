@@ -1,4 +1,10 @@
 #!/Users/samarthnaik/Desktop/SIA/bin/python
+<<<<<<< Updated upstream
+=======
+
+
+
+>>>>>>> Stashed changes
 import sys
 import subprocess
 from commands import (
